@@ -48,6 +48,6 @@
   "dependencies": {
     "@hookform/resolvers": "^2.8.8",
     "lodash": "^4.17.21",
-    "react-hook-form": "^7.27.1"
+    "react-hook-form": "^7.32.1"
   }
 }
